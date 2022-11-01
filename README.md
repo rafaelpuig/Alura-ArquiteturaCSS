@@ -2,8 +2,8 @@
   <p align="center">Fruta & Fruto</p>
  </h1>
  
-![AluraPlus](![image](https://user-images.githubusercontent.com/95223411/199238299-55286b68-56cb-430d-a87e-0eb18dcbbe0d.png)
-)
+![Frutaefruto](https://user-images.githubusercontent.com/95223411/199240993-b1cb1879-a974-4bcb-aba6-97c0c846c95b.png)
+
 
 ## Introdução
 <br />
