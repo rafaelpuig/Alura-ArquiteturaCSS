@@ -14,24 +14,24 @@ O Fruta & Fruto é um objeto didático produzido pela Alura que emula o website 
 ## Aprendizados
 <br />
   <strong>Layout base e estilização do Cabeçalho</strong><br />
-  - Utilizar seletores CSS mais simples; <br />
-  - Organizar a estruturar os arquivos css do projeto; <br />
-  - Metodologia Atomic Design. <br />
+  - Utilizar seletores CSS mais simples;
+  - Organizar a estruturar os arquivos css do projeto;
+  - Metodologia Atomic Design.
 <br />
   <strong>Estilização de Banner e Sobre</strong><br />
-  - Padrão para nomear as classes de CSS; <br />
-  - Metodologia BEM. <br />
+  - Padrão para nomear as classes de CSS;
+  - Metodologia BEM.
 <br />
   <strong>Estilização das Receitas</strong><br />
-  - Organização e estrutura de arquivos .css;<br />
-  - Separação de responsabilidades;<br />
-  - Criar e manter arquivos menores.<br />
+  - Organização e estrutura de arquivos .css;
+  - Separação de responsabilidades;
+  - Criar e manter arquivos menores.
 <br />
  <strong>Estilização do Quem Somos</strong><br />
-  - Referenciamento de imagens ilustrativas nos arquivos CSS<br />
-  - Boas práticas de importação de imagens;<br />
-  - Manter as estilizações nos arquivos de estilo<br />
+  - Referenciamento de imagens ilustrativas nos arquivos CSS;
+  - Boas práticas de importação de imagens;
+  - Manter as estilizações nos arquivos de estilo
 <br />
  <strong>Estilização do Rodapé e Responsividade do Site</strong><br />
-  - Tornar o site responsivo<br />
-  - Como adaptar o site a diferentes tamanhos de tela.<br />
+  - Tornar o site responsivo;
+  - Como adaptar o site a diferentes tamanhos de tela.
